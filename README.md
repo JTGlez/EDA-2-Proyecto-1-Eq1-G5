@@ -5,7 +5,7 @@ Programa de ordenamiento de archivos usando Polifase, Natural Mix y Radix Sort.
   un proceso de ordenamiento a una serie de nombres (denominadados como 'keys') dentro de un archivo de texto plano .txt y devolviendo otro archivo con las claves ordenadas.
   
  > Dentro del repositorio se encuentra toda la documentación del proyecto y un manual de usuario para su operación. Se sugiere usar NetBeans o VS Code con las respectivas 
-  extensiones de Java para ejecutar el programa. No se prevee el desarrollo posterior de trabajo y se considera como finalizado. 
+  extensiones de Java para ejecutar el programa. No se prevee el desarrollo posterior del trabajo y se considera como finalizado. 
   
 
 > Disclaimer: Los créditos de este trabajo pertenecen a todo el equipo escolar que desarrolló este proyecto y no está sujeto a ninguna restricción de reproducción. Considera 
